@@ -128,14 +128,7 @@ JIMS Engineering Management Technical Campus (GGSIPU) | 2022 - 2026
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-## 🎵 Currently Listening To
-<div align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e2e2e2e2e2e2e2e2e2e2" width="100" />
-  <br>
-  <b>Shubh Songs Playlist</b>
-</div>
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivamSharma8168&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
