@@ -80,21 +80,6 @@ May 2025 – Nov 2025
 
 ---
 
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSharma8168&show_icons=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSharma8168" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma8168&layout=compact" />
-</p>
-
----
 
 ## Education
 
