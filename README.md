@@ -1,51 +1,51 @@
 # Shivam Sharma
 
-DevOps Engineer | Cloud Infrastructure | Automation | Kubernetes
+DevOps Engineer | AWS | Terraform | Docker |Kubernetes | Infrastructure Automation
 
 ---
 
 ## Profile
 
-DevOps Engineer specializing in designing scalable, reliable, and automated cloud infrastructure.  
-Focused on improving deployment efficiency, system reliability, and operational scalability through Infrastructure as Code and modern DevOps practices.
+DevOps Engineer with hands-on experience in building scalable, secure, and automated cloud infrastructure on AWS.  
+Specialized in CI/CD pipeline design, container orchestration, and Infrastructure as Code to improve deployment efficiency and system reliability.
 
 ---
 
-## Core Expertise
+## Core Competencies
 
-- Cloud Infrastructure (AWS)
-- Kubernetes & Container Orchestration
-- CI/CD Pipeline Design & Optimization
+- Cloud Infrastructure (AWS: EC2, IAM, S3, VPC, CloudWatch)
+- Containerization & Orchestration (Docker, Kubernetes)
+- CI/CD Pipeline Engineering (Jenkins, GitHub Webhooks)
 - Infrastructure as Code (Terraform)
-- DevSecOps & Automation
-- System Reliability & Performance Optimization
+- DevSecOps & Cloud Security (IAM, server hardening)
+- System Monitoring & Reliability Engineering
 
 ---
 
 ## Technical Stack
 
 **Cloud & DevOps**  
-AWS • Kubernetes • Docker • Terraform • Jenkins  
+AWS • Kubernetes • Docker • Terraform • Jenkins • Nginx  
 
-**Languages & Scripting**  
-Python • Bash • SQL • JavaScript  
+**Programming & Scripting**  
+Python • Bash • SQL  
 
 **Systems & Tools**  
-Linux • Git • GitHub  
+Linux (Ubuntu/Debian) • Git • GitHub  
 
 ---
 
-## Key Project
+## Key Projects
 
-### InfraGuard — AWS Security Audit Platform
+### InfraGuard — Cloud Security Scanning Platform
 
-Designed and built a DevSecOps platform to identify security misconfigurations across AWS environments.
+Designed and developed a cloud security platform to detect misconfigurations and improve AWS security posture.
 
 **Impact**
-- Automated AWS infrastructure auditing (read-only scanning)
-- Reduced manual security review effort significantly
-- Secure credential handling using RSA encryption
-- Enabled cost-efficient scans (~₹11 per audit)
+- Automated cloud vulnerability and compliance scanning  
+- Improved security visibility and proactive risk detection  
+- Integrated AI-based remediation suggestions using Gemini API  
+- Enabled continuous monitoring for cloud environments  
 
 **Tech Stack**  
 Python • AWS SDK • React • S3 • SES • EC2  
@@ -55,16 +55,28 @@ Python • AWS SDK • React • S3 • SES • EC2
 
 ---
 
+### CI/CD Pipeline Automation (Jenkins)
+
+Engineered a production-ready CI/CD pipeline for automated application deployment.
+
+- Implemented end-to-end pipeline on AWS EC2  
+- Integrated GitHub webhooks for automated triggers  
+- Dockerized Jenkins for portability and scalability  
+- Configured Nginx reverse proxy for secure access  
+- Added email notifications and job backup mechanisms  
+
+---
+
 ## Experience
 
-**DevOps Engineer — Jarnox (Skillquestlearnings)**  
-May 2025 – Present  
+**DevOps Engineer — Skillquest Learnings**  
+May 2025 – Nov 2025  
 
-- Designed and maintained CI/CD pipelines improving deployment consistency  
-- Managed containerized applications using Docker and Kubernetes  
-- Implemented Infrastructure as Code using Terraform for AWS environments  
-- Automated deployment workflows reducing manual intervention  
-- Contributed to improving system reliability and operational efficiency  
+- Deployed and managed containerized applications on AWS using Docker and Nginx  
+- Built CI/CD pipelines using Jenkins, improving deployment reliability  
+- Automated build, test, and deployment workflows across environments  
+- Monitored systems and performed log analysis for production stability  
+- Implemented IAM policies and server hardening for secure infrastructure  
 
 ---
 
@@ -86,15 +98,16 @@ May 2025 – Present
 
 ## Education
 
-B.Tech in Computer Science  
-JIMS Engineering Management Technical Campus (GGSIPU)  
+B.Tech in Computer Science & Engineering  
+Guru Gobind Singh Indraprastha University  
 2022 – 2026  
 
 ---
+
 
 ## Contact
 
 - Email: sharma.shiv8535@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/shivamsharma8168  
-- Portfolio: https://shiv8168.vercel.app/  
 - GitHub: https://github.com/ShivamSharma8168  
+- Portfolio: https://shiv8168.vercel.app/  
